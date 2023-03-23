@@ -14,7 +14,7 @@
   <a href="https://github.com/Kqp1227" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=Kqp1227">
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Kqp1227&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kqp1227&theme=synthwave">
     -->
   </a>
 </p>
