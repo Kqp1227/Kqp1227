@@ -6,7 +6,7 @@ I am Qingpeng (Erica) Kong from Beijing, China
   <a href="https://github.com/Kqp1227" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kqp1227">
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kqp1227&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kqp1227&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
     -->
   </a>
 </p>
