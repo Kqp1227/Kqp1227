@@ -1,8 +1,13 @@
 name: generate animation
 
 on:
-  workflow_call:
-
+  # run automatically every 24 hours
+  schedule:
+    - cron: "0 * * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
 jobs:
   generate:
     runs-on: ubuntu-latest
