@@ -1,6 +1,7 @@
 name: generate animation
 
-  
+on:
+  workflow_call:
 
 jobs:
   generate:
