@@ -3,8 +3,7 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kqp1227&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kqp1227&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
  
-<div align="center"><img src="https://raw.githubusercontent.com/Kqp1227/Kqp1227/main/assets/github-contribution-grid-snake.svg" ></div>
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Kqp1227/Kqp1227/assets/github-contribution-grid-snake.svg" ></div>
+![Snake animation](https://github.com/Kqp1227/Kqp1227/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
