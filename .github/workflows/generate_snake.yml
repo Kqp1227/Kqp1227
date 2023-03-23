@@ -2,7 +2,6 @@
 
 name: Generate Snake
 
-
 on:
   watch:
     types: started
