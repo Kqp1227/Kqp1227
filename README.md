@@ -4,7 +4,7 @@
 | ------------- | ------------- |
  
 <div align="center"><img src="https://raw.githubusercontent.com/Kqp1227/Kqp1227/main/assets/github-contribution-grid-snake.svg" ></div>
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Achuan-2/Achuan-2/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Kqp1227/Kqp1227/assets/github-contribution-grid-snake.svg" ></div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
