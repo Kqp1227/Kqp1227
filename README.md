@@ -6,8 +6,8 @@
     <!-- &hide=issues
     < img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kqp1227&theme=buefy">
     -->
-  </ a>
-</p >
+  </a>
+</p>
 
 <p align="center">
   < a href="https://github.com/Kqp1227" class="rich-diff-level-one">
@@ -15,8 +15,8 @@
     <!-- &hide=issues
     < img src="https://github-readme-stats.vercel.app/api?username=Kqp1227&theme=buefy">
     -->
-  </ a>
-</p >
+  </a>
+</p>
 <br> 
  
 <!--START_SECTION:waka-->
