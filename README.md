@@ -3,18 +3,18 @@
 <br>
 <p align="center">
   <a href="https://github.com/Kqp1227" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kqp1227&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kqp1227">
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kqp1227&theme=buefy">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kqp1227&theme=dracula&bg_color=00000000">
     -->
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Kqp1227" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kqp1227&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kqp1227">
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Kqp1227&theme=buefy">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kqp1227&theme=dracula&bg_color=00000000">
     -->
   </a>
 </p>
