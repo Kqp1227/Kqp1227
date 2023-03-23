@@ -6,11 +6,6 @@ I am Qingpeng (Erica) Kong from Beijing, China
  
 <div align="center"><img src="https://raw.githubusercontent.com/Kqp1227/Kqp1227/main/assets/github-contribution-grid-snake.svg" ></div>
 
-
-作者：Achuan-2
-链接：https://ld246.com/article/1633274473807
-来源：链滴
-协议：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <!--
