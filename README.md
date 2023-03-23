@@ -5,7 +5,7 @@
   <a href="https://github.com/Kqp1227" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kqp1227">
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kqp1227&theme=dracula&bg_color=00000000">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kqp1227&theme=cobalt">
     -->
   </a>
 </p>
