@@ -5,7 +5,7 @@
  
  
  😄 My public contributions: 
-![Snake animation](https://github.com/Kqp1227/Kqp1227/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Kqp1227/Kqp1227/blob/output/github-contribution-grid-snake1.svg)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
