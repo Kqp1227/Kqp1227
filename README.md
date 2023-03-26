@@ -1,6 +1,6 @@
 ![绘图1](https://user-images.githubusercontent.com/104506575/227195860-1e44906b-e8d4-450a-95cb-619ed44ba3a2.svg)
 
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kqp1227&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kqp1227&layout=compact&theme=buefy&hide_border=true" /></a> | 
 | ------------- | ------------- |
  
  
