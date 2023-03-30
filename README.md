@@ -1,9 +1,9 @@
-<p align="center">
-![绘图1](https://user-images.githubusercontent.com/104506575/227195860-1e44906b-e8d4-450a-95cb-619ed44ba3a2.svg)
-</p>
+
+
  
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
+ ![绘图1](https://user-images.githubusercontent.com/104506575/227195860-1e44906b-e8d4-450a-95cb-619ed44ba3a2.svg)
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Delicious+Handrawn&pause=1000&color=F7B2DE&center=true&vCenter=true&width=435&lines=User%2C+sometimes+a+beggar"></a>
 </p>
 
