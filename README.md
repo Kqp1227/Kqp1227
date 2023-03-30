@@ -1,5 +1,6 @@
+<p align="center">
 ![绘图1](https://user-images.githubusercontent.com/104506575/227195860-1e44906b-e8d4-450a-95cb-619ed44ba3a2.svg)
-
+</p>
  
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
