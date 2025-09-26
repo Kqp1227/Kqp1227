@@ -1,16 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=50&pause=1000&color=F7AAD1&width=1000&height=80&lines=Hi!+I'm+Qingpeng+(Erica)+KONG+%E2%80%A2%E1%B4%97%E2%80%A2)](https://git.io/typing-svg)
 
-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kqp1227&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kqp1227&layout=compact&theme=buefy&hide_border=true" /></a> | 
-| ------------- | ------------- |
-
 My homepage is https://kqp1227.github.io/.
  
-- <!-- 😄 My public contributions: 
-- ![Snake animation](https://github.com/Kqp1227/Kqp1227/blob/output/github-contribution-grid-snake1.svg) -->
+<!-- 😄 My public contributions: 
+![Snake animation](https://github.com/Kqp1227/Kqp1227/blob/output/github-contribution-grid-snake1.svg) -->
 
-- **Kqp1227/Kqp1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kqp1227/Kqp1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- Here are some ideas to get you started:
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
