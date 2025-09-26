@@ -5,15 +5,15 @@
 
 My homepage is https://kqp1227.github.io/.
  
-<!-- 😄 My public contributions: 
-![Snake animation](https://github.com/Kqp1227/Kqp1227/blob/output/github-contribution-grid-snake1.svg) -->
+- <!-- 😄 My public contributions: 
+- ![Snake animation](https://github.com/Kqp1227/Kqp1227/blob/output/github-contribution-grid-snake1.svg) -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<!--
-**Kqp1227/Kqp1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <!--START_SECTION:waka-->
+- <!--END_SECTION:waka-->
+- <!--
+- **Kqp1227/Kqp1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
